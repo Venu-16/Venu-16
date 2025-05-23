@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venu-16
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m pre-grad student in B.tech (AIML) in Mohan Babu University.
+- 🌱 I’m final-year student in B.tech (AIML) in Mohan Babu University.
 - 💞️ I’m looking to collaborate on AIML projects
 - 📫 How to reach me : Email: venumadhav143n@gmail.com
 - 🌐 personal portfolio : [Link](https://portfolio-lovat-sigma-48.vercel.app/)
