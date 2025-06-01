@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on AIML projects
 - 📫 How to reach me : Email: venumadhav143n@gmail.com
 - 🌐 personal portfolio : [Link](https://portfolio-lovat-sigma-48.vercel.app/)
+- 👤 LinkedIn Profile : [Link](https://www.linkedin.com/in/venu-madhav-maile-16v/)
+- 🎯 LeetCode Profile : [Link](https://leetcode.com/u/Maile_Venu_Madhav/)
 - 😄 Pronouns: VM
 
 
