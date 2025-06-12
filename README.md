@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venu-16
+- 👋 Hi, I’m Maile Venu Madhav
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m final-year student in B.tech (AIML) in Mohan Babu University.
 - 💞️ I’m looking to collaborate on AIML projects
