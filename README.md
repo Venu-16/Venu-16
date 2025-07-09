@@ -5,7 +5,7 @@
 - 📫 How to reach me : Email: **venumadhav2216@gmail.com**
 - 🌐 personal portfolio : [Link](https://portfolio-lovat-sigma-48.vercel.app/)
 - 👤 LinkedIn Profile : [Link](https://www.linkedin.com/in/venu-madhav-maile-16v/)
-- 🎯 LeetCode Profile : [Link](https://leetcode.com/u/venumadhav2212/)
+- 🎯 LeetCode Profile : [Link](https://leetcode.com/u/venumadhav2216/)
 
 ## 📊 GitHub Stats
 
