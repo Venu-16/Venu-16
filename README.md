@@ -12,13 +12,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Venu-16&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Venu-16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-16&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Venu-16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <!---
 Venu-16/Venu-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
