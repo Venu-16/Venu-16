@@ -32,8 +32,7 @@
 
 ---
 ## 🚧 Currently Working Projects  
-- 🏥 [**Medical Appointment Booking System**](https://github.com/Venu-16/Medical-Appointment-Scheduling-AI-Agent) – AI-powered appointment scheduler built using **LangChain + LangGraph**, integrates NLP & Gemini API for patient bookings.  
-- 💼 [**Fake Job Detection**](https://github.com/Venu-16/Fake-Job-Postings-Detection-) – Machine learning model that detects and flags **fraudulent job postings**.  
+- 🏥 [**Medical Appointment Booking System**](https://github.com/Venu-16/Medical-Appointment-Scheduling-AI-Agent) – AI-powered appointment scheduler built using **LangChain + LangGraph**, integrates NLP & Gemini API for patient bookings.   
 
 
 ## 📊 GitHub Stats  
