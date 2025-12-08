@@ -4,3 +4,8 @@
 - 🌱 Currently exploring **Deep Learning & Generative AI**  
 - 💞️ Open to collaborate on **AI/ML projects**  
 - 📫 Reach me at **venumadhav2216@gmail.com** 
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
