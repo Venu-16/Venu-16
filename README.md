@@ -54,6 +54,12 @@ I love building intelligent systems — from ML models to agentic AI tools — a
 
 </div>
 
+<!-- Contribution Snake -->
+<h2 align="center">🐍 My Contributions</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+</p>
+
 
 ## 💬 Ask Me About
 Machine Learning, NLP, React, DSA patterns, AI Agents, Hackathon projects, and turning ideas into deployable prototypes.
