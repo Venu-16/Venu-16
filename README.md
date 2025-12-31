@@ -12,6 +12,8 @@ I love building intelligent systems — from ML models to agentic AI tools — a
 ![GitHub Streak](https://streak-stats.demolab.com?user=Venu-16&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venu-16&show_icons=true&theme=tokyonight)
 
+
+[![Venu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Venu-16&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/Venu-16/github-readme-activity-graph)
 ---
 ## 📫 How to Reach Me
 - **LinkedIn:** *www.linkedin.com/in/venu-madhav-maile-16v*
