@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Venu Madhav Maile!
+# 👋 Hey, I'm Venu Madhav Maile !
 
 I’m an AI & ML enthusiast currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning.  
 I love building intelligent systems — from ML models to agentic AI tools — and recently I’ve been diving deep into full-stack and frontend development to become a well-rounded engineer.
